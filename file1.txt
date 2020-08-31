@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 "cloud99 computer education" 
 "Andhra Pradesh" 
 "modified from module1" 
+=======
+"adding new line after merging" 
+>>>>>>> module1
