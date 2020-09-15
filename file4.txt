@@ -1,1 +1,2 @@
 "second file of module2" 
+modifying from module1 after merging 
