@@ -1,2 +1,3 @@
 "first file of module1" 
 modifying from master after merging 
+modifying from module1 after merging 
